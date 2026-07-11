@@ -1,0 +1,6 @@
+{
+  "name": "StadiumGPT",
+  "description": "AI-powered platform for improving stadium operations and the FIFA World Cup 2026 experience using Google Generative AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
